@@ -5,6 +5,6 @@
 🚀 Some of my projects include:
 - Calories Burned Predictor using Linear Regression
 - Exploratory data Analysis of illegal Financial Transaction among various countries
-- Analyzing Healthcare Appointment No-Shows
+- Streamlit based Web App - Calories Burned Predictor
 
 📚 I’m constantly learning and exploring new technologies to solve complex problems. Feel free to explore my repositories and connect with me!
